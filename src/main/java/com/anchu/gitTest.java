@@ -9,6 +9,7 @@ public class gitTest {
         System.out.println("version5");
         System.out.println("master");
 
+        System.out.println("hot-fix");
 
     }
 }
